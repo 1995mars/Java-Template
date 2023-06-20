@@ -1,4 +1,4 @@
-package com.mars.annotation;
+package com.mars.template_annotation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
